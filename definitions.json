@@ -1,0 +1,134 @@
+[
+  {
+    "folderName": "test",
+    "metadataType": "AccountSettings"
+  },
+  {
+    "folderName": "classes",
+    "metadataType": "ApexClass"
+  },
+  {
+    "folderName": "components",
+    "metadataType": "ApexComponent"
+  },
+  {
+    "folderName": "pages",
+    "metadataType": "ApexPage"
+  },
+  {
+    "folderName": "triggers",
+    "metadataType": "ApexTrigger"
+  },
+  {
+    "folderName": "appMenus",
+    "metadataType": "AppMenu"
+  },
+  {
+    "folderName": "approvalProcess",
+    "metadataType": "ApprovalProcess"
+  },
+  {
+    "folderName": "assignmentRules",
+    "metadataType": "AssignmentRules"
+  },
+  {
+    "folderName": "aura",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  {
+    "folderName": "autoResponseRules",
+    "metadataType": "AutoResponseRules"
+  },
+  {
+    "folderName": "certs",
+    "metadataType": "Certificate"
+  },
+  {
+    "folderName": "layouts",
+    "metadataType": "CompactLayout"
+  },
+  {
+    "folderName": "connectedApps",
+    "metadataType": "ConnectedApp"
+  },
+  {
+    "folderName": "applications",
+    "metadataType": "CustomApplication"
+  },
+  {
+    "folderName": "objects",
+    "metadataType": "CustomField"
+  },
+  {
+    "folderName": "labels",
+    "metadataType": "CustomLabel"
+  },
+  {
+    "folderName": "customMetadata",
+    "metadataType": "CustomMetadata"
+  },
+  {
+    "folderName": "objects",
+    "metadataType": "CustomObject"
+  },
+  {
+    "folderName": "tabs",
+    "metadataType": "CustomTab"
+  },
+  {
+    "folderName": "emailTemplates",
+    "metadataType": "EmailTemplate"
+  },
+  {
+    "folderName": "permissionsets",
+    "metadataType": "PermissionSet"
+  },
+  {
+    "folderName": "profiles",
+    "metadataType": "Profile"
+  },
+  {
+    "folderName": "queues",
+    "metadataType": "Queue"
+  },
+  {
+    "folderName": "objects",
+    "metadataType": "RecordType"
+  },
+  {
+    "folderName": "remoteSiteSettings",
+    "metadataType": "RemoteSiteSetting"
+  },
+  {
+    "folderName": "reports",
+    "metadataType": "Report"
+  },
+  {
+    "folderName": "reportTypes",
+    "metadataType": "ReportType"
+  },
+  {
+    "folderName": "roles",
+    "metadataType": "Role"
+  },
+  {
+    "folderName": "samlssoconfigs",
+    "metadataType": "SamlSsoConfig"
+  },
+  {
+    "folderName": "sharingRules",
+    "metadataType": "SharingRules"
+  },
+  {
+    "folderName": "siteDotComSites",
+    "metadataType": "SiteDotCom"
+  },
+  {
+    "folderName": "objects",
+    "metadataType": "ValidationRule"
+  },
+  {
+    "folderName": "workflowRules",
+    "metadataType": "Workflow"
+  }
+]
