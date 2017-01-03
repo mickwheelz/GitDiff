@@ -7,15 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0747ef7c-a1ae-450e-b722-a1ec9d6daa89" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/master/manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/new-feature/manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/src/classes/AccountHandler.cls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/src/classes/AccountHandler.cls-meta.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/src/classes/AccountHandlerTest.cls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/src/classes/AccountHandlerTest.cls-meta.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/src/package.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/GitDiff_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/GitDiff_jar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
@@ -43,8 +34,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="73" column="47" lean-forward="true" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+            <state relative-caret-position="108">
+              <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -719,12 +710,12 @@
       <updated>1478589372076</updated>
       <workItem from="1478589375880" duration="46358000" />
       <workItem from="1482526427031" duration="3430000" />
-      <workItem from="1483450160382" duration="1787000" />
+      <workItem from="1483450160382" duration="1872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51575000" />
+    <option name="totallyTimeSpent" value="51660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1142" extended-state="6" />
@@ -1007,8 +998,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="73" column="47" lean-forward="true" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+        <state relative-caret-position="108">
+          <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
           <folding />
         </state>
       </provider>
